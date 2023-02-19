@@ -36,6 +36,22 @@
 7.4 Order Details
 ![ORDER](https://user-images.githubusercontent.com/85302661/206138779-7b9ccad6-c2bb-4a46-9522-d3a7ec7e3826.PNG)
 
+8 Secured Angular Client with keykcloak
+
+8-1 Login page
+https://user-images.githubusercontent.com/62290643/206132384-c6cfe9d0-9f00-4b58-a7fe-6d98a27cfe51.png
+
+8-2 Client Orders
+![pho2](https://user-images.githubusercontent.com/85302661/219973720-de5c69e3-09df-42b9-bdb2-30d703c3ad65.png)
+
+8-3 Product list
+
+
+9- Kafka
+![pho1](https://user-images.githubusercontent.com/85302661/219973829-02485a37-404f-4589-8a50-83c066f8c168.jpg)
+
+
+
 
 
 
